@@ -1,2 +1,2 @@
-# algojam_jams
+# jams
 Crowdsourced Algo Jams
