@@ -1,2 +1,0 @@
-# jams
-Crowdsourced Algo Jams
